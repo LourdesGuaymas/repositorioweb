@@ -2,7 +2,7 @@
     <?php
  //Ejemplo aprenderaprogramar.com
        $nombre = $_GET['nombre'];
-       Echo $nombre;
+       echo $nombre;
 $estudios = $_GET['estudios'];
 Echo $estudios;
 
